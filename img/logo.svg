@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-ydpi="427.89999"
+   inkscape:export-xdpi="427.89999"
+   inkscape:export-filename="C:\Users\apple\Desktop\JadedSlasher\img\logo.png"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 135.10514 18.151612"
+   height="18.151611mm"
+   width="135.10513mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     fit-margin-left="0.4"
+     fit-margin-bottom="0.4"
+     fit-margin-right="0.4"
+     fit-margin-top="0.4"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="-52.056105"
+     inkscape:cx="200.89236"
+     inkscape:zoom="1.979899"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-23.21792,-96.392396)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="112.325"
+       x="90.565651"
+       height="1.8190104"
+       width="54.037323"
+       id="rect849"
+       style="fill:#282828;fill-opacity:1;stroke:none;stroke-width:12.3937;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+    <rect
+       style="fill:#282828;fill-opacity:1;stroke:none;stroke-width:11.7872;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect851"
+       width="48.878143"
+       height="1.8190104"
+       x="26.948549"
+       y="112.325" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine Bold';letter-spacing:0px;word-spacing:0px;fill:#3a473a;fill-opacity:1;stroke:#282828;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="57.365952"
+       y="113.39344"
+       id="text839"
+       transform="skewX(-15.482986)"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="57.365952"
+         y="113.39344"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'BN Machine';-inkscape-font-specification:'BN Machine Bold';fill:#3a473a;fill-opacity:1;stroke:#282828;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill">Jaded Slasher</tspan></text>
+    <text
+       transform="skewX(-15.482986)"
+       id="text843"
+       y="111.80594"
+       x="55.338699"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:'BN Machine';-inkscape-font-specification:'BN Machine Bold';letter-spacing:0px;word-spacing:0px;fill:#8dad8e;fill-opacity:1;stroke:#282828;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'BN Machine';-inkscape-font-specification:'BN Machine Bold';fill:#8dad8e;fill-opacity:1;stroke:#282828;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         y="111.80594"
+         x="55.338699"
+         id="tspan841"
+         sodipodi:role="line">Jaded Slasher</tspan></text>
+  </g>
+</svg>
